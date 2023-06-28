@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hey there! I'm Ipsa Gupta
 
-<!--
-**Ipsa11/Ipsa11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🙋🏽‍♂️About Me
 
-Here are some ideas to get you started:
+<p> I wear many hats depending on what is required of me but, I am Core Blockchain Rust Developer, so feel free to reach out to me on .
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨🏽‍💻Tech Stack
+
+<p>
+Here are a few things I've picked up along my learning journey.
+</p>
+
+- 🗣 C++ 𒑰 C# 𒑰 Rust 𒑰 Python 𒑰 Java
+- 🎒 NodeJS 𒑰 Html 𒑰 Css
+
+
+
+
+
+`Reach out to me on any of the social links above to talk about possible opportunities, mentorship, collaborations and everything in between!`
