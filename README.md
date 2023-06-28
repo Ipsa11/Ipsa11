@@ -15,12 +15,12 @@ Here are a few things I've picked up along my learning journey.
 - 🗣 C++ 𒑰 C# 𒑰 Rust 𒑰 Python 𒑰 Java
 - 🎒 NodeJS 𒑰 Html 𒑰 Css
 
-<p><h3> Research and Development:</h3></p>
+### 🌱Research and Development
 
-<h5>Developing Pallets:- Made Pallet for Real estate.</h5>
-<h5>Relay Chains and Parachains</h5>
- <h5>Xcm Configuration and Bridges</h5>
-<h5>Data Migration between chains </h5>
+- _Developing Pallets:- Made Pallet for Real estate_ 🧙🏽‍♂️
+- _Relay Chains and Parachains_ 🤖
+- _Xcm Configuration and Bridges_ ⚙️
+- _Data Migration between chains_ 🧙🏽‍♂️
 
 
 
