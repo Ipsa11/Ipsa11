@@ -16,7 +16,7 @@ Here are a few things I've picked up along my learning journey.
 - 🎒 NodeJS 𒑰 Html 𒑰 Css
 
 <p><b> Research and Development:</b> </p>
-<h1>Developing Pallets:- Made Pallet for Real estate.</h1>
+<h5>Developing Pallets:- Made Pallet for Real estate.</h5>
 <hr>Relay Chains and Parachains</hr>
  <hr>Xcm Configuration and Bridges</hr>
 <hr>Data Migration between chains </hr>
