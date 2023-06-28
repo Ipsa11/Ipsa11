@@ -15,7 +15,7 @@ Here are a few things I've picked up along my learning journey.
 - 🗣 C++ 𒑰 C# 𒑰 Rust 𒑰 Python 𒑰 Java
 - 🎒 NodeJS 𒑰 Html 𒑰 Css
 
-<h6> Research and Development:</h6>
+<p><h3> Research and Development:</h3></p>
 <p><h5>Developing Pallets:- Made Pallet for Real estate.</h5></p>
 <p><h5>Relay Chains and Parachains</h5></p>
  <p><h5>Xcm Configuration and Bridges</h5></p>
