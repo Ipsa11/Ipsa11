@@ -2,7 +2,7 @@
 
 ### 🙋🏽‍♂️About Me
 
-<p> I wear many hats depending on what is required of me but, I am Core Blockchain Rust Developer. A skilled, result-oriented professional with 2+ years of experience in the Blockchain domain withproficiency in Rust programming language including core language concepts, advanced features and libraries. Having knowledge of web development frameworks and libraries in Rust, such as Rocket , to build secure and scalable web applications.I have strong understanding of fundamental data structures and algorithms, enabling efficient problem solving and have expertise in public blockchains, delivering Blockchain as Solutions and designing Web 3.0 based technical architectures.
+<p> I wear many hats depending on what is required of me , I am Core Blockchain Rust Developer. A skilled, result-oriented professional with  experience in the Blockchain domain with proficiency in Rust programming language including core language concepts, advanced features and libraries. Having knowledge of web development frameworks and libraries in Rust, such as Rocket , to build secure and scalable web applications.I have strong understanding of fundamental data structures and algorithms, enabling efficient problem solving and have expertise in public blockchains, delivering Blockchain as Solutions and designing Web 3.0 based technical architectures.
 
 </p>
 
