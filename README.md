@@ -16,6 +16,3 @@ Here are a few things I've picked up along my learning journey.
 
 
 
-
-
-`Reach out to me on any of the social links above to talk about possible opportunities, mentorship, collaborations and everything in between!`
